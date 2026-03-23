@@ -38,7 +38,7 @@ const Index = () => {
   ]
 
   return (
-    <div className="min-h-screen bg-[#0B0F12] text-white">
+    <div className="min-h-screen bg-[#0B1A10] text-white">
       {/* Hero Section */}
       <div className="relative min-h-screen">
         {/* Background Image with Overlay */}
